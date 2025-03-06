@@ -7,35 +7,35 @@ Android Development is the process of creating applications for Android devices 
 
 ## Overview of Android Development
 
-Android development involves creating mobile applications that interact with users through different UI elements. It follows the <b>Model-View-Controller (MVC)</b> architecture and uses various components such as <b>Activities, Fragments, Services, Broadcast Receivers, and Content Providers</b> to build robust applications.
+Android development involves creating mobile applications that interact with users through different UI elements. It follows the **Model-View-Controller (MVC)** architecture and uses various components such as **Activities, Fragments, Services, Broadcast Receivers, and Content Providers to build** robust applications.
 
 ### Key Highlights:
-    Languages Used: Java and Kotlin.
-    UI Design: XML for layouts.
-    IDE: Android Studio.
-    App Components: Activities, Fragments, Services, etc.
-    Development Framework: Android SDK.
+- **Languages Used:** Java and Kotlin.
+- **UI Design:** XML for layouts.
+- **IDE:** Android Studio.
+- **App Components:** Activities, Fragments, Services, etc.
+- **Development Framework:** Android SDK.
 
 
 ## 1. System Requirements for Android Studio
-Before installing Android Studio, ensure your system meets the following minimum requirements :
+Before installing Android Studio, ensure your system meets the following minimum requirements.
 
 ### For Windows:
-- OS: Windows 10 or later (64-bit)
-- RAM: At least 8 GB (16 GB recommended)
-- Disk Space: Minimum 8 GB of free space (SSD recommended)
-- Processor: Intel Core i3 or equivalent (Core i5/i7 - recommended)
-- JDK (Java Development Kit): Included in Android Studio
+- **OS:** Windows 10 or later (64-bit)
+- **RAM:** At least 8 GB (16 GB recommended)
+- **Disk Space:** Minimum 8 GB of free space (SSD recommended)
+- **Processor:** Intel Core i3 or equivalent (Core i5/i7 - recommended)
+- **JDK (Java Development Kit):** Included in Android Studio
     
 ### For macOS:
-- OS: macOS 10.14 (Mojave) or later
-- RAM: At least 8 GB (16 GB recommended)
-- Disk Space: Minimum 8 GB of free space
-- Processor: Apple M1/M2 or Intel Core i5/i7
+- **OS:** macOS 10.14 (Mojave) or later
+- **RAM:** At least 8 GB (16 GB recommended)
+- **Disk Space:** Minimum 8 GB of free space
+- **Processor:** Apple M1/M2 or Intel Core i5/i7
 
 ## 2. Steps to Install Android Studio
 ### Step 1: Download Android Studio
-- Visit the official [Android Studio download page](https://- developer.android.com/studio).
+- Visit the official [Android Studio download page](https://developer.android.com/studio).
 - Select the appropriate version for Windows, macOS, or Linux.
 - Click Download and agree to the terms and conditions.
 - Step 2: Install Android Studio
@@ -83,7 +83,7 @@ system image.
 - The AndroidManifest.xml file contains essential information about the app, including its components (activities, services, broadcast receivers), permissions, and application metadata.
 
 ## Running a Simple App to Test Installation
-- After installing Android Studio, create a simple <b>Hello World</b> application.
+- After installing Android Studio, create a simple **Hello World** application.
 
 ### XML Layout (activity_main.xml)
 ```XML
